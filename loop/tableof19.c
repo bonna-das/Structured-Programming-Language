@@ -1,0 +1,9 @@
+#include<stdio.h>
+int main(){
+    int n;
+    scanf("%d",&n);
+    for(int i=19;i<=n;i=i+19){
+        printf("%d\n",i);
+    }
+    return 0;
+}
