@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main(){
+wS\X2ain(){
     int n;
     printf("Input");
     scanf("%d",&n);
