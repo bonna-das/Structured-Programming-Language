@@ -34,4 +34,4 @@ If you want to clone and run any of the C files locally using VS Code and GCC:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/bonna-das/Structured-Programming-Language.git](https://github.com/bonna-das/Structured-Programming-Language.git)
+   git clone https://github.com/bonna-das/Structured-Programming-Language.git
