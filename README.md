@@ -28,10 +28,4 @@ This repository is organized by topic to cover key concepts in structured progra
 
 ---
 
-## 🚀 How to Run the Programs
 
-If you want to clone and run any of the C files locally using VS Code and GCC:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/bonna-das/Structured-Programming-Language.git
